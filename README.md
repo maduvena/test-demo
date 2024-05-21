@@ -1,2 +1,2 @@
-# test-demo
-Demo purpose
+### agama-demo
+ Demo purposes only
